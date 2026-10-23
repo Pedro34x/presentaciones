@@ -1,0 +1,5 @@
+# Build scripts and cache
+*.py
+__pycache__/
+*.html
+*.log
